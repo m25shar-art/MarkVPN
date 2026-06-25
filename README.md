@@ -1,6 +1,5 @@
 # MarkVPN
 
-# Название: MarkVPN_VLESS.txt
 # 🏴 VPN Configs | Оптимизированный набор VLESS
 
 ## 📌 Описание
@@ -19,8 +18,13 @@
 🇰🇷 Южная Корея • 🇸🇪 Швеция • 🇨🇭 Швейцария • 🇳🇱 Нидерланды • 
 🇹🇷 Турция • 🇬🇧 Великобритания • 🇺🇸 США • 🇷🇺 Россия • 🌐 Anycast
 
+# Название: MarkVPN_VLESS.txt
 ## 🔗 Ссылка для импорта
 https://raw.githubusercontent.com/m25shar-art/MarkVPN/refs/heads/main/MarkVPN_VLESS.txt
+
+# Название: MarkVPN_VLESS_modile.txt
+## 🔗 Ссылка для импорта
+https://raw.githubusercontent.com/m25shar-art/MarkVPN/refs/heads/main/MarkVPN_VLESS_mobile.txt
 
 ## 📱 Как использовать
 1. Скопируйте ссылку выше
